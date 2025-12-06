@@ -140,4 +140,5 @@
 
         <plugin>
           <artifactId>maven-site-plugin</artifactId>
-          <version>3.0</
+          <version>3.0</version>
+        </plugin>
